@@ -145,7 +145,7 @@ college-management-system/
 
 ## For Any Doubt Feel Free To Contact Me 🚀
 
-- [My Portfolio / GitHub](https://github.com/Harishganth-0704/portfolio)
+- [My Portfolio](https://github.com/Harishganth-0704/portfolio)
 - [LinkedIn](https://linkedin.com/in/harishganth07)
 - [hkanth742@gmail.com](mailto:hkanth742@gmail.com)
 
