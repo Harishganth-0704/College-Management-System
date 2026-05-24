@@ -25,3 +25,9 @@ yarn-error.log*
 
 temp
 backend/media/*
+# Local MongoDB data
+db/
+
+# Test & utility scripts
+backend/test_*.js
+backend/update*.js
