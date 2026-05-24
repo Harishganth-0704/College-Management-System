@@ -168,11 +168,9 @@ http://localhost:3000
 
 ## 🔐 Default Login Credentials
 
-| Role | Email | Password |
-|---|---|---|
-| **Admin** | admin@gmail.com | admin123 |
-
-> ⚠️ After first login, please change the password immediately from the Profile section.
+> ⚠️ **Security Note:** Default credentials are not shared publicly.  
+> Please contact the **Admin** to get your login credentials.  
+> Admin can create Faculty and Student accounts from the Admin Dashboard.
 
 ---
 
