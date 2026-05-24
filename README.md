@@ -145,9 +145,9 @@ college-management-system/
 
 ## For Any Doubt Feel Free To Contact Me 🚀
 
-- [My Website](http://krishjotaniya.netlify.app/)
-- [Linkedin](https://www.linkedin.com/in/krishjotaniya/)
-- [krishjotaniya71@gmail.com](mailto:krishjotaniya71@gmail.com)
+- [My Portfolio / GitHub](https://github.com/Harishganth-0704/portfolio)
+- [LinkedIn](https://linkedin.com/in/harishganth07)
+- [hkanth742@gmail.com](mailto:hkanth742@gmail.com)
 
 ## Contributing
 
