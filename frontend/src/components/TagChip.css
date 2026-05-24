@@ -1,0 +1,32 @@
+/* TagChip.css - modern tag chip styling */
+
+.tag-chip {
+  display: inline-flex;
+  align-items: center;
+  background: hsla(260, 30%, 30%, 0.4);
+  color: hsl(260, 20%, 95%);
+  padding: 4px 8px;
+  border-radius: 12px;
+  margin: 2px;
+  font-size: 0.85rem;
+  backdrop-filter: blur(4px);
+  transition: background 0.2s ease;
+}
+
+.tag-chip:hover {
+  background: hsla(260, 30%, 30%, 0.6);
+}
+
+.remove-btn {
+  background: none;
+  border: none;
+  color: hsl(0, 70%, 70%);
+  margin-left: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.remove-btn:hover {
+  color: hsl(0, 80%, 90%);
+}
