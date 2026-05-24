@@ -10,6 +10,24 @@
 
 ---
 
+## 📸 Screenshots
+
+| Login Page | Admin Dashboard |
+|---|---|
+| ![Login](screenshots/login.png) | ![Admin Dashboard](screenshots/admin-dashboard.png) |
+
+| Faculty Attendance | Student Attendance Report |
+|---|---|
+| ![Attendance](screenshots/faculty-attendance.png) | ![Student Attendance](screenshots/student-attendance.png) |
+
+| My Notes | Notifications |
+|---|---|
+| ![Notes](screenshots/notes.png) | ![Notifications](screenshots/notifications.png) |
+
+> 📷 Screenshots are located in the [`/screenshots`](screenshots/) folder.
+
+---
+
 ## 🚀 Live Features Overview
 
 ### 🛡️ Admin Features
